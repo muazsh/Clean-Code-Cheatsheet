@@ -1,4 +1,4 @@
-# Clean-Code-Cheatsheet
+# Clean Code Cheatsheet
 
 Here is a summary of  **Clean Code** book by *Robert Cecil Martin*, followed by additional guidelines for a cleaner code:
 
